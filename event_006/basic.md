@@ -18,19 +18,26 @@
 15人
 
 * Akira Osada
+	+ osdakira
 * 山口 威
+	+ volcaos
 * 重城良国
+	+ YoshikuniJujo
 * 日比野 啓
+	+ khibino
 * Ma----さん
 * smOkymOnkey
 * 佐藤 貴比呂
 * しおしお
 * Tomohisa Kuranari
+	+ kuranari
 * 橋川
+* Essent
 * もっちぃ
 * t-mochizuki
 * 石川拓海
 * kayhide
+	+ kayhide
 
 参加
 ----
