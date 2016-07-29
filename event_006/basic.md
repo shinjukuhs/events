@@ -15,12 +15,10 @@
 申し込み
 --------
 
-15人
+14人
 
 * Akira Osada
 	+ osdakira
-* 山口 威
-	+ volcaos
 * 重城良国
 	+ YoshikuniJujo
 * 日比野 啓
