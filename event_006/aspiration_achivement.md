@@ -109,6 +109,7 @@ t-mochizuki
 ### 抱負
 
  - 『Haskell再考』をもくもく
+ - または[1から学ぶHaskell: プログラマ向けのHaskell入門](http://skami.iocikun.jp/computer/haskell/web_lecture/for_programmer/)をもくもく
 
 ### 成果
 
