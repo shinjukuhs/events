@@ -102,7 +102,14 @@ t-mochizuki
 
 ### 自己紹介
 
+ - 仕事ではサーバーサイドを担当することが多いです
+ - 普段はScalaを使うことが多いです
+ - よろしくお願いします
+
 ### 抱負
+
+ - 『Haskell再考』をもくもく
+ - または[1から学ぶHaskell: プログラマ向けのHaskell入門](http://skami.iocikun.jp/computer/haskell/web_lecture/for_programmer/)をもくもく
 
 ### 成果
 
