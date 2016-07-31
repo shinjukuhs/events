@@ -20,7 +20,7 @@
 * [ ] Akira Osada (osdakira)
 * [x] 重城良国 (YoshikuniJujo)
 * [ ] 日比野 啓 (khibino)
-* [x] Ma----さん
+* [x] 入澤 賢
 * [ ] smOkymOnkey
 * [ ] しおしお
 * [ ] Tomohisa Kuranari (kuranari)
