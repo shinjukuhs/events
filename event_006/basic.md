@@ -17,6 +17,7 @@
 
 14人
 
+* [x] 三木明
 * [x] Akira Osada (osdakira)
 * [x] 重城良国 (YoshikuniJujo)
 * [x] 日比野 啓 (khibino)
@@ -29,7 +30,7 @@
 * [ ] もっちぃ
 * [x] t-mochizuki
 * [x] 石川拓海
-* [ ] kayhide (kayhide)
+* [x] kayhide (kayhide)
 * [ ] son (rhwckl)
 
 参加
