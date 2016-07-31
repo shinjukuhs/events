@@ -25,7 +25,6 @@
 	+ khibino
 * Ma----さん
 * smOkymOnkey
-* 佐藤 貴比呂
 * しおしお
 * Tomohisa Kuranari
 	+ kuranari
