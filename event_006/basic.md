@@ -23,15 +23,15 @@
 * [x] 日比野 啓 (khibino)
 * [x] 入澤 賢
 * [ ] smOkymOnkey
-* [ ] しおしお
+* [x] しおしお
 * [x] Tomohisa Kuranari (kuranari)
 * [ ] 橋川
 * [ ] Essent
-* [ ] もっちぃ
+* [x] もっちぃ
 * [x] t-mochizuki
 * [x] 石川拓海
 * [x] kayhide (kayhide)
-* [ ] son (rhwckl)
+* [x] son (rhwckl)
 
 参加
 ----
