@@ -17,25 +17,25 @@
 
 14人
 
-* Akira Osada
+[ ] Akira Osada
 	+ osdakira
-* 重城良国
+[x] 重城良国
 	+ YoshikuniJujo
-* 日比野 啓
+[ ] 日比野 啓
 	+ khibino
-* Ma----さん
-* smOkymOnkey
-* しおしお
-* Tomohisa Kuranari
+[x] Ma----さん
+[ ] smOkymOnkey
+[ ] しおしお
+[ ] Tomohisa Kuranari
 	+ kuranari
-* 橋川
-* Essent
-* もっちぃ
-* t-mochizuki
-* 石川拓海
-* kayhide
+[ ] 橋川
+[ ] Essent
+[ ] もっちぃ
+[x] t-mochizuki
+[ ] 石川拓海
+[ ] kayhide
 	+ kayhide
-* son
+[ ] son
 	+ rhwckl
 
 参加
