@@ -108,10 +108,14 @@ t-mochizuki
 
 ### 抱負
 
- - 『Haskell再考』をもくもく
- - または[1から学ぶHaskell: プログラマ向けのHaskell入門](http://skami.iocikun.jp/computer/haskell/web_lecture/for_programmer/)をもくもく
+ - [Haskell再考](http://www.npca.jp/works/magazine/#2014)をもくもく
+ - [1から学ぶHaskell: プログラマ向けのHaskell入門](http://skami.iocikun.jp/computer/haskell/web_lecture/for_programmer/)をもくもく
 
 ### 成果
+
+ - 主に『Haskell再考』サンプルコードを写経しました
+ - [MyPrelude.hs](https://gist.github.com/t-mochizuki/687239e0a084c45c6679956661cb1f6b)
+ - 再帰データ型を非再帰データ型で定義できることを知りました
 
 石川拓海
 --------
